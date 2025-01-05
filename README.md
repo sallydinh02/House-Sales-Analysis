@@ -9,7 +9,11 @@ https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data
 My personal project to process, analyze housing sales data (the trend of average housing price, housing price by location on map, relationship between view, condition, price, etc.) using Python (pandas, numpy), SQL and visualize data using Tableau.
 
 ## Tableau dashboard
-* Link to dashboard: https://public.tableau.com/app/profile/sally.dinh/viz/DailyAverageHouseSalesPrice/KCHouseSalesDashboard
+* Link to full dashboard: https://public.tableau.com/app/profile/sally.dinh/viz/DailyAverageHouseSalesPrice/KCHouseSalesDashboard
+
+ Sample dashboard:
+![KC House Sales Dashboard](https://github.com/user-attachments/assets/530d963c-81a5-4d1d-ab1b-ad7a035ff75a)
+
 
 * Note: Charts, graphs, map will change based on the selected date / month in calendar on the top left of the dashboard.
 
