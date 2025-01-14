@@ -11,7 +11,8 @@ My personal project to process, analyze housing sales data (the trend of average
 ## Tableau dashboard
 * Link to full dashboard: https://public.tableau.com/app/profile/sally.dinh/viz/DailyAverageHouseSalesPrice/KCHouseSalesDashboard
 
- Sample dashboard:
+* Sample image of dashboard:
+
 ![KC House Sales Dashboard](https://github.com/user-attachments/assets/530d963c-81a5-4d1d-ab1b-ad7a035ff75a)
 
 
